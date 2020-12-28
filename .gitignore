@@ -11,4 +11,7 @@
 /.bsp
 /.idea
 /target
-/project/project/target/
+/project/target/.sbt-compilation-infos
+/project/target/scala-2.12
+/project/target/config-classes
+/project/target/streams
